@@ -13,3 +13,5 @@ git status
 git log
 
 git checkout -b <branchName>
+
+git checkout <branchName>
