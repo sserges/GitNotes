@@ -28,4 +28,6 @@ git push origin <branchName>
 git tag -a <version> -m <message>
 
 git push origin --tags
+
+git tag
 ```
